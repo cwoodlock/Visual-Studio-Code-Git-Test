@@ -1,2 +1,2 @@
 // This is a comment.  
-alert("hello world in TypeScript!!!!");
+alert("hello person in TypeScript!!!!");
